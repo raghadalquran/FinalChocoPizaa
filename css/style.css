@@ -169,7 +169,8 @@ input:checked + label {
     text-align: center;
     font-size: 16px;
     cursor: pointer;
-  }
+    margin-left: 741px;
+    margin-top: -35px;  }
 
   .footer_bottom { 
 	width:100%; 
@@ -178,9 +179,11 @@ input:checked + label {
 	line-height:0.1em; 
     margin:37px 0 20px; 
     position :relative;
+    margin-top: 56px;
 } 
 .footer_bottom img { 
-	position:absolute; bottom:-15px;
+    position:absolute; 
+    bottom:-15px;
     left:62%;
     margin-left:-125px;
 }
@@ -200,11 +203,11 @@ h5 {
     font-size: 16px;
 }
 
-button {
+/* button {
 
     margin-left: 721px;
     margin-top: -33px; 
-}
+} */
 
 .info {
     margin-top: 96px;
@@ -213,6 +216,7 @@ button {
 .pf2{
     padding-left: 85px;
     margin-top: 15px;
+    width: 615px;
 }
 
 .topHr{
